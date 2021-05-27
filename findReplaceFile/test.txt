@@ -1,0 +1,1 @@
+Php est un langage de programmation compilé et concurrent inspiré de C et Pascal. Ce langage a été développé par Google6 à partir d'un concept initial de Robert Griesemer, Rob Pike et Ken Thompson. Php possède deux implémentations, la première utilise gc
